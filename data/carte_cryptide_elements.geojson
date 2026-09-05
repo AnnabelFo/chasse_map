@@ -1,0 +1,886 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:4326"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4960139041108866,
+          43.52218462966195
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "1",
+        "type": "puma",
+        "_qgis_class_val": "puma",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#000000",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_carte_cryptide_elements_cat2.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4929073817917622,
+          43.52288703785688
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "2",
+        "type": "puma",
+        "_qgis_class_val": "puma",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#000000",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_carte_cryptide_elements_cat2.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4949783966711785,
+          43.52400118580566
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "3",
+        "type": "puma",
+        "_qgis_class_val": "puma",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#000000",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_carte_cryptide_elements_cat2.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5207324688006956,
+          43.518502908116254
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "4",
+        "type": "puma",
+        "_qgis_class_val": "puma",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#000000",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_carte_cryptide_elements_cat2.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.522836887145909,
+          43.514530272372404
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "5",
+        "type": "puma",
+        "_qgis_class_val": "puma",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#000000",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_carte_cryptide_elements_cat2.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5261772337256132,
+          43.51394888910659
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "6",
+        "type": "puma",
+        "_qgis_class_val": "puma",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#000000",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_carte_cryptide_elements_cat2.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4974168496743625,
+          43.50554243013719
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "7",
+        "type": "puma",
+        "_qgis_class_val": "puma",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#000000",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_carte_cryptide_elements_cat2.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.497951305127115,
+          43.50377377529221
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "8",
+        "type": "puma",
+        "_qgis_class_val": "puma",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#000000",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_carte_cryptide_elements_cat2.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.49451074815002,
+          43.50319228840817
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "9",
+        "type": "puma",
+        "_qgis_class_val": "puma",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#000000",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_carte_cryptide_elements_cat2.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4889323693619143,
+          43.52242684030814
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "10",
+        "type": "ours",
+        "_qgis_class_val": "ours",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#1f132c",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_carte_cryptide_elements_cat1.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4876630376616267,
+          43.52111889126644
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "11",
+        "type": "ours",
+        "_qgis_class_val": "ours",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#1f132c",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_carte_cryptide_elements_cat1.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4851243742610518,
+          43.51942335956514
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "12",
+        "type": "ours",
+        "_qgis_class_val": "ours",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#1f132c",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_carte_cryptide_elements_cat1.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5032958596546409,
+          43.515305441347444
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "13",
+        "type": "ours",
+        "_qgis_class_val": "ours",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#1f132c",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_carte_cryptide_elements_cat1.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.506769820097533,
+          43.516661963093696
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "14",
+        "type": "ours",
+        "_qgis_class_val": "ours",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#1f132c",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_carte_cryptide_elements_cat1.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5084399933873849,
+          43.51830912707462
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "15",
+        "type": "ours",
+        "_qgis_class_val": "ours",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#1f132c",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_carte_cryptide_elements_cat1.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4892664040198844,
+          43.502562337963326
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "16",
+        "type": "ours",
+        "_qgis_class_val": "ours",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#1f132c",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_carte_cryptide_elements_cat1.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4917382604888656,
+          43.50018785028161
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "17",
+        "type": "ours",
+        "_qgis_class_val": "ours",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#1f132c",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 11.34,
+          "dashArray": null,
+          "icone": "styles_images/icone_carte_cryptide_elements_cat1.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5021601418175416,
+          43.51845446291419
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "18",
+        "type": "triangle",
+        "_qgis_class_val": "triangle",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#25000c",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_carte_cryptide_elements_cat3.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4977508843323324,
+          43.5151600979231
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "19",
+        "type": "triangle",
+        "_qgis_class_val": "triangle",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#25000c",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_carte_cryptide_elements_cat3.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5089744488401375,
+          43.5076017574691
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "20",
+        "type": "triangle",
+        "_qgis_class_val": "triangle",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#25000c",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_carte_cryptide_elements_cat3.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.488197493114379,
+          43.49965478919114
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "21",
+        "type": "triangle",
+        "_qgis_class_val": "triangle",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#25000c",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_carte_cryptide_elements_cat3.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5088408349769495,
+          43.5248973333547
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "22",
+        "type": "carr\u00e9",
+        "_qgis_class_val": "carr\u00e9",
+        "_qgis_style": {
+          "color": "#080808",
+          "fillColor": "#000000",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.0,
+          "radius": 7.56,
+          "dashArray": null,
+          "icone": "styles_images/icone_carte_cryptide_elements_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5227366767485175,
+          43.51331905091466
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "23",
+        "type": "carr\u00e9",
+        "_qgis_class_val": "carr\u00e9",
+        "_qgis_style": {
+          "color": "#080808",
+          "fillColor": "#000000",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.0,
+          "radius": 7.56,
+          "dashArray": null,
+          "icone": "styles_images/icone_carte_cryptide_elements_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4944105377526284,
+          43.507262578976615
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "24",
+        "type": "carr\u00e9",
+        "_qgis_class_val": "carr\u00e9",
+        "_qgis_style": {
+          "color": "#080808",
+          "fillColor": "#000000",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.0,
+          "radius": 7.56,
+          "dashArray": null,
+          "icone": "styles_images/icone_carte_cryptide_elements_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5014920725016005,
+          43.5085223751986
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "25",
+        "type": "carr\u00e9",
+        "_qgis_class_val": "carr\u00e9",
+        "_qgis_style": {
+          "color": "#080808",
+          "fillColor": "#000000",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 0.0,
+          "radius": 7.56,
+          "dashArray": null,
+          "icone": "styles_images/icone_carte_cryptide_elements_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    }
+  ]
+}

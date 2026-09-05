@@ -1,0 +1,714 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:4326"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.485569622891176,
+          43.4984363275626
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "commentaire": "1.167 -champs chateau d'eau  localisation \u00e0 v\u00e9rifier",
+        "forme": "carr\u00e9",
+        "couleur": "jaune",
+        "verif": "loc \u00e0 v\u00e9rifier",
+        "_qgis_class_val": "carr\u00e9 jaune",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#d3c12b",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 5.67,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_cat4.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4973820378169747,
+          43.51990771062614
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "commentaire": "contrebandier local du crabh",
+        "forme": "rond",
+        "couleur": "bleu",
+        "verif": "ok",
+        "_qgis_class_val": "rond bleu",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#1e63e3",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 5.67,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_cat2.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4923134292129314,
+          43.515410533605454
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "commentaire": "arnaud - lavoir",
+        "forme": "carr\u00e9",
+        "couleur": "vert",
+        "verif": "ok",
+        "_qgis_class_val": "carr\u00e9 vert",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#2b954e",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 5.67,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_cat5.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4932686350249267,
+          43.51289155357526
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "commentaire": "200 passerelle - ",
+        "forme": "carr\u00e9",
+        "couleur": "bleu",
+        "verif": "ok",
+        "_qgis_class_val": "carr\u00e9 bleu",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#1e63e3",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 5.67,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4963474832618486,
+          43.51329643231815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "commentaire": "fresque murale chemin des anes 04/04/2026",
+        "forme": "rond",
+        "couleur": "vert",
+        "verif": "ok",
+        "_qgis_class_val": "rond vert",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#2b954e",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 5.67,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_cat9.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5102072576985779,
+          43.52306747877646
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "commentaire": "fronton - 59%",
+        "forme": "carr\u00e9",
+        "couleur": "violet",
+        "verif": "ok",
+        "_qgis_class_val": "carr\u00e9 violet",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#6631cb",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 5.67,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_cat6.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5080385279765842,
+          43.521649676996425
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "commentaire": "canne epee course orientation - loc pr\u00e9cise \u00e0 v\u00e9rifier",
+        "forme": "rond",
+        "couleur": "jaune",
+        "verif": "A v\u00e9rifier loc",
+        "_qgis_class_val": "rond jaune",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#d3c12b",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 5.67,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_cat7.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5183630850739709,
+          43.52419038291404
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "commentaire": "ecluse castanet 16",
+        "forme": "rond",
+        "couleur": "rouge",
+        "verif": "loc pr\u00e9cise \u00e0 v\u00e9rifier",
+        "_qgis_class_val": "rond rouge",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#e81f2f",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 5.67,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_cat8.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.509136561539454,
+          43.516233611173654
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "commentaire": "Kitsune alle de cipres - emplacement exact \u00e0 v\u00e9rifier",
+        "forme": "carr\u00e9",
+        "couleur": "bleu",
+        "verif": "ok",
+        "_qgis_class_val": "carr\u00e9 bleu",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#1e63e3",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 5.67,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4994892445655543,
+          43.51428217185738
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "commentaire": "rat cornu",
+        "forme": "rond",
+        "couleur": "violet",
+        "verif": "ok",
+        "_qgis_class_val": "rond violet",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#6631cb",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 5.67,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_cat10.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4942922569084505,
+          43.5081338267169
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "commentaire": "passerelle fages 4/18 pv",
+        "forme": "carr\u00e9",
+        "couleur": "jaune",
+        "verif": "ok",
+        "_qgis_class_val": "carr\u00e9 jaune",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#d3c12b",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 5.67,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_cat4.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.523417765061048,
+          43.515346698650276
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "commentaire": "station bus polioptila",
+        "forme": "rond",
+        "couleur": "jaune",
+        "verif": "ok",
+        "_qgis_class_val": "rond jaune",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#d3c12b",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 5.67,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_cat7.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5205350833918894,
+          43.51577191142065
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "commentaire": "borne, jardin partag\u00e9, le roi est mort",
+        "forme": "carr\u00e9",
+        "couleur": "vert",
+        "verif": "ok",
+        "_qgis_class_val": "carr\u00e9 vert",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#2b954e",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 5.67,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_cat5.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5119585052552924,
+          43.51594569306401
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "commentaire": "Roi dieu salle du lac",
+        "forme": "carr\u00e9",
+        "couleur": "bleu",
+        "verif": "ok",
+        "_qgis_class_val": "carr\u00e9 bleu",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#1e63e3",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 5.67,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4992970981031501,
+          43.52498513673038
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "commentaire": "boite aux lettre 684 cafard",
+        "forme": "rond",
+        "couleur": "vert",
+        "verif": "ok",
+        "_qgis_class_val": "rond vert",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#2b954e",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 5.67,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_cat9.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.51686511232974,
+          43.51142232546016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "commentaire": "Oscar D\u00e9mon Mat empois - ecluse vic",
+        "forme": "carr\u00e9",
+        "couleur": "rouge",
+        "verif": "ok",
+        "_qgis_class_val": "carr\u00e9 rouge",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#b83129",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 5.67,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_cat11.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5196174095382609,
+          43.52004289491679
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "commentaire": "Blood on the cklocktaower galactica",
+        "forme": "carr\u00e9",
+        "couleur": "vert",
+        "verif": "ok",
+        "_qgis_class_val": "carr\u00e9 vert",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#2b954e",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 5.67,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_cat5.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4939060333657492,
+          43.52076053975865
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "commentaire": "52,5 \"",
+        "forme": "carr\u00e9",
+        "couleur": "violet",
+        "verif": "ok",
+        "_qgis_class_val": "carr\u00e9 violet",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#6631cb",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 5.67,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_cat6.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5187594629344996,
+          43.52275912340703
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "commentaire": "deversoir",
+        "forme": "carr\u00e9",
+        "couleur": "violet",
+        "verif": "loc \u00e0 v\u00e9rifier",
+        "_qgis_class_val": "carr\u00e9 violet",
+        "_qgis_style": {
+          "color": "#232323",
+          "fillColor": "#6631cb",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 5.67,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_cat6.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
