@@ -1,0 +1,3251 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "EPSG:4326"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4894806534291625,
+          43.52344500224962
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "1",
+        "angle": "True",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4877179354402115,
+          43.52405211276949
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "2",
+        "angle": "True",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4982501754241941,
+          43.52680001028717
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "3",
+        "angle": "True",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5236663654273834,
+          43.521991107485896
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "4",
+        "angle": "True",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5289765533690989,
+          43.51428967401266
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "5",
+        "angle": "True",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.534088435537057,
+          43.511237589226226
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "6",
+        "angle": "True",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5297477424892643,
+          43.507002765690004
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "7",
+        "angle": "True",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5195680461030716,
+          43.50812142719888
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "8",
+        "angle": "True",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5145883677842849,
+          43.50805750424258
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "9",
+        "angle": "True",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5120764946500285,
+          43.5086807501788
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "10",
+        "angle": "True",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5084629227726796,
+          43.50582015812356
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "11",
+        "angle": "True",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5052459624428438,
+          43.50844104096494
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "12",
+        "angle": "True",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5018086623643891,
+          43.50441378383201
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "13",
+        "angle": "True",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4970052558444973,
+          43.50294344840377
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "14",
+        "angle": "True",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.492686596771567,
+          43.49968301166946
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "15",
+        "angle": "True",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4983052603613491,
+          43.493193579350184
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "16",
+        "angle": "True",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.485569622891176,
+          43.4984363275626
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "17",
+        "angle": "True",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4840272446508436,
+          43.509783400301316
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "18",
+        "angle": "True",
+        "solution": "1",
+        "_qgis_class_val": "1",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#d7d222",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat1.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4844238561983578,
+          43.513522672461605
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "19",
+        "angle": "True",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4793560419801233,
+          43.51505666581533
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "20",
+        "angle": "True",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4822645266618928,
+          43.51758127830944
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "21",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4944272807856558,
+          43.5230455841019
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "22",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4904611653105158,
+          43.51937081306552
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "23",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4858780985392428,
+          43.51799671075103
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "24",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5026679873840023,
+          43.52419590120824
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "25",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5003764539983662,
+          43.52167156547864
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "26",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4982171244619007,
+          43.519562545784325
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "27",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4945594846348271,
+          43.517804973056464
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "28",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.492179815349743,
+          43.51556798826802
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "29",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.490549301209963,
+          43.512468029411735
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "30",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4953086397801312,
+          43.51381029918563
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "31",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4980849206127294,
+          43.516366920926664
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "32",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5020510360878694,
+          43.51754932184931
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "33",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.504342569473506,
+          43.52179938248463
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "34",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.50707478235638,
+          43.52282190878408
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "35",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5067222387585897,
+          43.51965841191522
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "36",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.510820558082901,
+          43.52419590120824
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "37",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5093663157420167,
+          43.521831336693815
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "38",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5158663383262736,
+          43.52651244548107
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "39",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5189731287818002,
+          43.52403613625511
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "40",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.517166342843125,
+          43.52215087785485
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "41",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5139273485384275,
+          43.52159167971237
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "42",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5122968343986476,
+          43.51809257936982
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "43",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.510203606786768,
+          43.51647877065478
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "44",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5040340938254386,
+          43.5152484122428
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "45",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5065900349094183,
+          43.51419379935186
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "46",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.502227307886764,
+          43.51128552892385
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "47",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5002883180989182,
+          43.513490713852086
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "48",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.497644241115491,
+          43.51016692605686
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "49",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4945594846348265,
+          43.50847300224844
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "50",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4913425243049911,
+          43.508185350087466
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "51",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4800611291757038,
+          43.50668314430811
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "52",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4745526354602314,
+          43.50959163650961
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "53",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4749051790580217,
+          43.51381029918561
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "54",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4813390997176927,
+          43.524355665738234
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "55",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4786950227342666,
+          43.518795611253466
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "56",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4943391448862078,
+          43.505852120794835
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "57",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5003323860486415,
+          43.506491370666645
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "58",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.506457831060247,
+          43.5105184891919
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "59",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4872442049806793,
+          43.50316719740946
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "60",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4913425243049911,
+          43.501457094671785
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "61",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4881255639751552,
+          43.50000267011462
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "62",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.475500096379293,
+          43.50316719740946
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "63",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4807221484215607,
+          43.49952318181221
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "64",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4741560239127178,
+          43.49874000939594
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "65",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.482220458712169,
+          43.49368910246915
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "66",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4910781166066482,
+          43.49490391613874
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "67",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.4996272988530612,
+          43.49701379758822
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "68",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.503681550227649,
+          43.496086737546015
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "69",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5039459579259917,
+          43.499443266724924
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "70",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5087493644458836,
+          43.498963773980016
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "71",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5074273259541702,
+          43.50356674714276
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "72",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5113493734795862,
+          43.503151215365115
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "73",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5156680325525165,
+          43.505005104287406
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "74",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5168578671950583,
+          43.501489059653174
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "75",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5196341480276563,
+          43.496342479668904
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "76",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5132883632674323,
+          43.49404076157087
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "77",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5240850109497577,
+          43.50075386079916
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "78",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5236883994022434,
+          43.5058361394613
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "79",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.52994604826302,
+          43.504142094113135
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "80",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.533824027838713,
+          43.500082584461474
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "81",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.533427416291199,
+          43.49349728755057
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "82",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5198104198265514,
+          43.51855594221337
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "83",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5239968750503101,
+          43.515104602479276
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "84",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5231595840055585,
+          43.512611845458295
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "85",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.519854487776275,
+          43.513858236839646
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "86",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5120103927254425,
+          43.514113903684844
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "87",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.51571210050224,
+          43.51203657921558
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "88",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.516725663345887,
+          43.511205629406575
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "89",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          1.5329867367939602,
+          43.519914054186295
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "fid": "90",
+        "angle": "False",
+        "solution": "NULL",
+        "_qgis_class_val": "NULL",
+        "_qgis_style": {
+          "color": "#ffffff",
+          "fillColor": "#3452e6",
+          "weight": 1.0,
+          "opacity": 1.0,
+          "fillOpacity": 1.0,
+          "radius": 9.45,
+          "dashArray": null,
+          "icone": "styles_images/icone_points_init_\u2014_points_cat0.png",
+          "iconeProps": {
+            "size": [
+              30,
+              30
+            ],
+            "anchor": [
+              15,
+              15
+            ]
+          }
+        }
+      }
+    }
+  ]
+}
